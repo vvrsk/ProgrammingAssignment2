@@ -1,3 +1,6 @@
+##This is a submission made for Assignment 2 of Coursera course in Data science Specialization - Week 3
+
+
 ### Introduction
 
 This second programming assignment will require you to write an R
